@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat May  6 12:22:30 2017
 
-@author: KANHAIYA
-"""
 
 import pandas as pd
 train = pd.read_csv('train.csv')
